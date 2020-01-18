@@ -3,8 +3,12 @@ package rickie;
 public class HomeWork39 {
 	
 	public static void main(String[] args) {
-		int i1 = 222222;
+<<<<<<< HEAD
+
 		int i1 = 12;
+=======
+		int i1 = 122131232142142121421214214;
+>>>>>>> hotfix
 		int i2 = 6;
 		int i2 =fwefpowfke;
 		System.out.println("第一題");
