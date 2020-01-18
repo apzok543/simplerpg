@@ -6,6 +6,7 @@ public class HomeWork39 {
 		int i1 = 222222;
 		int i1 = 12;
 		int i2 = 6;
+		int i2 =fwefpowfke;
 		System.out.println("第一題");
 		System.out.println("相加："+(i1+i2));
 		System.out.println("相乘："+(i1*i2));
