@@ -3,6 +3,7 @@ package rickie;
 public class HomeWork39 {
 	
 	public static void main(String[] args) {
+		int i1 = 222222;
 		int i1 = 12;
 		int i2 = 6;
 		System.out.println("第一題");
